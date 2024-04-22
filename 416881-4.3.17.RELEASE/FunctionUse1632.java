@@ -1,0 +1,7 @@
+import org.springframework.web.accept.ServletPathExtensionContentNegotiationStrategy;
+public class FunctionUse1632 {
+public void funcUse() {
+ServletPathExtensionContentNegotiationStrategy servletpathextensioncontentnegotiationstrategy = new ServletPathExtensionContentNegotiationStrategy();
+servletpathextensioncontentnegotiationstrategy.getMediaTypeForResource(null);
+}
+}

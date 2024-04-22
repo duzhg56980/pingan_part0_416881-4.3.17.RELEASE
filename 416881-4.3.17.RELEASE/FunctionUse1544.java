@@ -1,0 +1,7 @@
+import org.springframework.web.multipart.commons.CommonsMultipartFile;
+public class FunctionUse1544 {
+public void funcUse() {
+CommonsMultipartFile commonsmultipartfile = new CommonsMultipartFile();
+commonsmultipartfile.isEmpty();
+}
+}
